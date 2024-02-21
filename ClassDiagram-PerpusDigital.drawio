@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T03:52:04.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Qi_aeYYjIYXSc0p1z44l" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T04:02:41.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ALzgSSKJBCNg0wDTLTh5" version="23.1.1" type="github">
   <diagram name="Page-1" id="gyWxr8mkWS0MehGiYG1A">
     <mxGraphModel dx="2214" dy="2300" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="none" math="0" shadow="0">
       <root>
@@ -45,16 +45,16 @@
           <mxGeometry y="178" width="160" height="42" as="geometry" />
         </mxCell>
         <mxCell id="SRtlZqPdkyfXJvU5sP5G-22" value="keperluan" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="-1360" width="160" height="114" as="geometry" />
+          <mxGeometry x="-160" y="-1360" width="160" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="SRtlZqPdkyfXJvU5sP5G-23" value="+ id: int&lt;br&gt;+ nama: char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SRtlZqPdkyfXJvU5sP5G-22" vertex="1">
-          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        <mxCell id="SRtlZqPdkyfXJvU5sP5G-23" value="+ id: int&lt;br&gt;+ nama: char&lt;br&gt;+ keterangan : char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SRtlZqPdkyfXJvU5sP5G-22" vertex="1">
+          <mxGeometry y="26" width="160" height="64" as="geometry" />
         </mxCell>
         <mxCell id="SRtlZqPdkyfXJvU5sP5G-24" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="SRtlZqPdkyfXJvU5sP5G-22" vertex="1">
-          <mxGeometry y="80" width="160" height="8" as="geometry" />
+          <mxGeometry y="90" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="SRtlZqPdkyfXJvU5sP5G-25" value="tampilkan()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SRtlZqPdkyfXJvU5sP5G-22" vertex="1">
-          <mxGeometry y="88" width="160" height="26" as="geometry" />
+          <mxGeometry y="98" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SRtlZqPdkyfXJvU5sP5G-26" value="Keanggotaan" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-1530" width="160" height="124" as="geometry" />
